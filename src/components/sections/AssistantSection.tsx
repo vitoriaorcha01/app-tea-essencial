@@ -1,0 +1,1 @@
+        <p className=\"text-sm sm:text-base text-gray-600 mt-1\">{t('assistantCompanion')}</p>
